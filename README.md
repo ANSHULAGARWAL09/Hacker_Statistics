@@ -7,5 +7,6 @@ You're walking up the empire state building and you're playing a game with a fri
 
 Falling down means that you have to start again from step 0. With all of this, you bet with your friend that you'll reach 60 steps high.
 
-What is the chance that you will win this bet?
+What is the chance that you will win this bet??
+
 
